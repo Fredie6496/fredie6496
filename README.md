@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Fredie
 
-<!--
-**Fredie6496/fredie6496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 I am a student currently learning programming to achieve my goals.
+- 🌐 I am passionate about becoming a **Web Developer** and **Web App Developer**.
+- 🤝 I am looking to collaborate with others on exciting projects.
 
-Here are some ideas to get you started:
+## 🎯 Goals
+- Gain a strong understanding of:
+  - HTML
+  - C++
+  - Git & GitHub
+  - JavaScript
+- Current project: **Understanding Programming**
+- Long-term goal: **Make the world a better place through technology**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: **gachokifredie1@gmail.com**
+- LinkedIn:https://github.com/fredie6496
+  
