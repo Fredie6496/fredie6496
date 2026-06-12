@@ -3,7 +3,7 @@
 **Am a student currently learning programming to achieve my goals**
 *I am passionate about becaming a web developer and web app developer*
 `I want to make world a better place though technology`
-**Links**
+## Links
 - [LinkedIn](https://github.com/fredie6496)
 - [HTML](https://fredie254.github.io.com)
 ### Things i want to learn
@@ -38,7 +38,7 @@ print("Hello, world!")
 *Am passionate about computer and technology and enjoy learning new programming skills.*
 #### My talent
 -"My talent is drawing,and i love expressing my creativity though art."
-**Favorite food**
+### Favorite food
 1.mukimo
 2.chiken
 3.pilau
