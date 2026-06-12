@@ -1,50 +1,50 @@
-##MY LEARNING GOALS
-### this semester
-**I am a student currently learning programming to achieve my goals**
-  *I am passionate about becoming a Web Developer and Web App Developer*
-`i want to Make the world a better place through technology`
 
-###links
-[link text](https://github.com/fredie6496)
-[Link text](https://fredie254/github.io.com)
 
-###this i want to learn
--web developer
--web app developer
--git and github
+## MY LEARNING GOALS
+### This Semester
 
-###steps to make a commit in Git
-  1.state your file
-  2.check our changes
-  3.verify the staging area
-  
-| TOOLS   | PURPOSE   | LINKS                                       |
-|---------|-----------|---------------------------------------------|
-| cursor  | coding    | [Linktext](https://cursor.com               |
-| c++     | coding    | [Link text](https://|code.visualsdudio.com/)
-  
-  ###TASK LIST
-  -[ ]programming
-  -[ ]practice git commit
--[ ]learn markdown basic
--[ ]web developer
+**I am a student currently learning programming to achieve my goals**  
+*I am passionate about becoming a Web Developer and Web App Developer*  
+`I want to make the world a better place through technology`
+
+---
+
+**Links**
+- [LinkedIn](https://github.com/fredie6496)
+- [HTML](https://fredie254.github.io.com)
+
+---
+
+### This I Want to Learn
+- Web developer
+- Web app developer
+- Git and GitHub
+
+---
+
+### Steps to Make a Commit in Git
+1. Stage your file (`git add .`)
+2. Commit your changes (`git commit -m "message"`)
+3. Push to GitHub (`git push`)
+
+---
+
+### Tools Table
+| Tool   | Purpose | Link                                   |
+|--------|---------|----------------------------------------|
+| Python | Coding  | [Python](https://www.python.org)       |
+| C++    | Coding  | [C++](https://isocpp.org)              |
+| Cursor | Coding  | [Cursor](https://cursor.com)           |
+
+---
+
+### TASK LIST
+- [ ] Programming  
+- [ ] Practice Git commit  
+- [ ] Learn Markdown basics  
+- [ ] Build a web app  
+
+---
 
 ```python
 print("Hello, world!")
-```
->Mediocrity doesn'n just happen.It's chosen over time though small choices day by day.
-  - by Todd henry
-
-###about me
-`hello! my name is fredie.Am a student currently learning programming and web development.My goal is to become a professional web application developer.
-Am passionate about computers and technology and enjoy learnimg new programing skills`
-
-####my talent
-*"My talent is drawing, and i love expressing my creativity though act."*
-
-  ####Favorite food
-  -MUkimo
-  -Chapati
-  -pilau
-  -chicken
-
